@@ -1,0 +1,46 @@
+
+.content-card{
+  border: solid rgba(255, 0, 0, 0.39);
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+  width: 300px;
+}
+
+.content-card:hover{
+    transform: rotate(1deg) scale(.99);
+  transition: all .4s ease-in
+  }
+
+.info{
+  display: flex;
+  justify-content: space-between;
+  height:20px;
+  background-color: tomato;
+  align-items: center;
+transition: ease-in-out .2s;
+}
+.info:hover{
+  height: 60px;
+}
+span{
+  color: antiquewhite;
+  font-size: 1rem;
+}
+button{
+  display: flex;
+  color: aliceblue;
+  justify-content: center;
+  align-items: center;
+background-color:rgba(165, 42, 42, 0.356);
+  width: 120px;
+  height: 40px;
+  border: solid brown;
+  border-radius: 20px !important;
+  font-size: 30px;
+  background-color: burlywood;
+}
+.Cart{
+  display: flex;
+  justify-content: center ;
+  align-items: center;
+}

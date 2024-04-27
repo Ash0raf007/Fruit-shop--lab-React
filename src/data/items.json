@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "price": 109,
+    "imgUrl": "/Images/apple.jpg",
+    "Rate":3
+  },
+  {
+    "id": 2,
+    "name": "Orange",
+    "price": 160,
+    "imgUrl": "/Images/orange.jpg",
+    "Rate":5
+
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 115,
+    "imgUrl": "/Images/banana.jpg",
+    "Rate":3
+
+  },
+  {
+    "id": 4,
+    "name": "Grapes",
+    "price": 100,
+    "imgUrl": "/Images/prod.jpg",
+    "Rate":4
+  },
+  {
+    "id": 5,
+    "name": "Guava",
+    "price": 160,
+    "imgUrl": "/Images/Gowav.jpg",
+    "Rate":3
+  }
+]

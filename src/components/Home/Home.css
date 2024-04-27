@@ -1,0 +1,36 @@
+.cover{
+  background-image: url(../../../public/Images/Avatar.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.cover h1{
+  color:rgb(250, 250, 250);
+  background-color: brown;
+display: flex;
+justify-content: center;
+}
+
+.link{
+  display: flex;
+  color: aliceblue;
+  justify-content: center;
+  align-items: center;
+background-color:rgba(165, 42, 42, 0.356);
+  width: 420px;
+  height: 90px;
+  border: solid brown;
+  text-decoration: none !important;
+  border-radius: 20px;
+  font-size: 30px;
+}
+.link:hover{
+  background-color: rgba(165, 42, 42, 0.452);
+}
+.position{
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+  margin-inline: auto;
+}

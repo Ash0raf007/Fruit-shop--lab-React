@@ -1,0 +1,18 @@
+.store-border{
+
+  display: flex;
+  flex-direction: row ;
+  flex-wrap: wrap;
+gap: 20px;  
+}
+.border{
+  border: solid #5a1818 !important;
+  background-color: black;
+}
+
+@media (width < 700px ) {
+  .store-border{
+    justify-content: center;
+    align-items: center;
+  }
+}
